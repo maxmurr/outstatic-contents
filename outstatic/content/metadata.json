@@ -1,6 +1,6 @@
 {
-  "commit": "9ba50700e46f7b1d273be28624703cf4fd3914a2",
-  "generated": "2025-04-23T10:31:02.863Z",
+  "commit": "f1fc49a411563d8af7f995135138854093b2e0e6",
+  "generated": "2025-04-23T10:31:28.922Z",
   "metadata": [
     {
       "__outstatic": {
@@ -100,8 +100,8 @@
     },
     {
       "__outstatic": {
-        "commit": "9ba50700e46f7b1d273be28624703cf4fd3914a2",
-        "hash": "4114721209",
+        "commit": "f1fc49a411563d8af7f995135138854093b2e0e6",
+        "hash": "2137981315",
         "path": "outstatic/content/posts/index.mdx"
       },
       "author": {
@@ -111,7 +111,7 @@
       "collection": "posts",
       "publishedAt": "2025-04-23T11:12:38.902Z",
       "slug": "index",
-      "status": "draft",
+      "status": "published",
       "title": "Getting Started"
     }
   ]
