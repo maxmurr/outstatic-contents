@@ -1,6 +1,6 @@
 {
-  "commit": "99fdb5e150bc983d05b7a005e42df2de8115a3b0",
-  "generated": "2025-04-23T10:30:33.795Z",
+  "commit": "9ba50700e46f7b1d273be28624703cf4fd3914a2",
+  "generated": "2025-04-23T10:31:02.863Z",
   "metadata": [
     {
       "__outstatic": {
@@ -97,6 +97,22 @@
       "slug": "dependencies",
       "status": "published",
       "title": "Dependencies"
+    },
+    {
+      "__outstatic": {
+        "commit": "9ba50700e46f7b1d273be28624703cf4fd3914a2",
+        "hash": "4114721209",
+        "path": "outstatic/content/posts/index.mdx"
+      },
+      "author": {
+        "name": "Max Murray",
+        "picture": "https://avatars.githubusercontent.com/u/78588986?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-04-23T11:12:38.902Z",
+      "slug": "index",
+      "status": "draft",
+      "title": "Getting Started"
     }
   ]
 }
