@@ -1,6 +1,6 @@
 {
-  "commit": "8b7f8dabd349435975f0e754ae36be4d685abb97",
-  "generated": "2025-04-23T10:32:37.812Z",
+  "commit": "761d11f6fc91a8f319679ed60dbd344cb9861011",
+  "generated": "2025-04-23T10:32:57.235Z",
   "metadata": [
     {
       "__outstatic": {
@@ -145,6 +145,22 @@
       "slug": "workspace-script",
       "status": "published",
       "title": "Workspace script"
+    },
+    {
+      "__outstatic": {
+        "commit": "761d11f6fc91a8f319679ed60dbd344cb9861011",
+        "hash": "2062929355",
+        "path": "outstatic/content/posts/workspace.mdx"
+      },
+      "author": {
+        "name": "Max Murray",
+        "picture": "https://avatars.githubusercontent.com/u/78588986?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-04-23T11:14:49.274Z",
+      "slug": "workspace",
+      "status": "draft",
+      "title": "Workspace"
     }
   ]
 }
