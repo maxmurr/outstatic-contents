@@ -1,6 +1,6 @@
 {
-  "commit": "a254473e102fe00c9cc0e60f244bf478319565fb",
-  "generated": "2025-04-23T10:32:00.065Z",
+  "commit": "8b7f8dabd349435975f0e754ae36be4d685abb97",
+  "generated": "2025-04-23T10:32:37.812Z",
   "metadata": [
     {
       "__outstatic": {
@@ -129,6 +129,22 @@
       "slug": "term-of-service",
       "status": "published",
       "title": "Term of service"
+    },
+    {
+      "__outstatic": {
+        "commit": "8b7f8dabd349435975f0e754ae36be4d685abb97",
+        "hash": "1641346641",
+        "path": "outstatic/content/posts/workspace-script.mdx"
+      },
+      "author": {
+        "name": "Max Murray",
+        "picture": "https://avatars.githubusercontent.com/u/78588986?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-04-23T11:14:25.035Z",
+      "slug": "workspace-script",
+      "status": "published",
+      "title": "Workspace script"
     }
   ]
 }
