@@ -1,6 +1,6 @@
 {
-  "commit": "4ede110ee8e4b8add2acb8157d9c725c75bd8264",
-  "generated": "2025-04-23T10:18:31.950Z",
+  "commit": "65328aeb3621515a1231c8b859960c2327de0a7e",
+  "generated": "2025-04-23T10:30:19.958Z",
   "metadata": [
     {
       "__outstatic": {
@@ -78,6 +78,22 @@
       },
       "collection": "docs",
       "publishedAt": "2025-04-23T04:32:17.972Z",
+      "slug": "dependencies",
+      "status": "published",
+      "title": "Dependencies"
+    },
+    {
+      "__outstatic": {
+        "commit": "65328aeb3621515a1231c8b859960c2327de0a7e",
+        "hash": "3207364582",
+        "path": "outstatic/content/posts/dependencies.mdx"
+      },
+      "author": {
+        "name": "Max Murray",
+        "picture": "https://avatars.githubusercontent.com/u/78588986?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-04-23T11:11:59.248Z",
       "slug": "dependencies",
       "status": "published",
       "title": "Dependencies"
