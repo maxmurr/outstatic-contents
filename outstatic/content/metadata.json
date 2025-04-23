@@ -1,6 +1,6 @@
 {
-  "commit": "f1fc49a411563d8af7f995135138854093b2e0e6",
-  "generated": "2025-04-23T10:31:28.922Z",
+  "commit": "a254473e102fe00c9cc0e60f244bf478319565fb",
+  "generated": "2025-04-23T10:32:00.065Z",
   "metadata": [
     {
       "__outstatic": {
@@ -113,6 +113,22 @@
       "slug": "index",
       "status": "published",
       "title": "Getting Started"
+    },
+    {
+      "__outstatic": {
+        "commit": "a254473e102fe00c9cc0e60f244bf478319565fb",
+        "hash": "2496988885",
+        "path": "outstatic/content/posts/term-of-service.mdx"
+      },
+      "author": {
+        "name": "Max Murray",
+        "picture": "https://avatars.githubusercontent.com/u/78588986?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-04-23T11:13:45.566Z",
+      "slug": "term-of-service",
+      "status": "published",
+      "title": "Term of service"
     }
   ]
 }
