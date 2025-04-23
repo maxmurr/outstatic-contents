@@ -1,6 +1,6 @@
 {
   "commit": "13a88cf4cfd826a86ee6c616ee055b4e8dae8050",
-  "generated": "2025-04-23T10:32:59.565Z",
+  "generated": "2025-04-23T10:33:02.378Z",
   "metadata": [
     {
       "__outstatic": {
@@ -149,7 +149,7 @@
     {
       "__outstatic": {
         "commit": "13a88cf4cfd826a86ee6c616ee055b4e8dae8050",
-        "hash": "1166849488",
+        "hash": "428860878",
         "path": "outstatic/content/posts/workspace.mdx"
       },
       "author": {
@@ -159,7 +159,7 @@
       "collection": "posts",
       "publishedAt": "2025-04-23T11:14:49.274Z",
       "slug": "workspace",
-      "status": "draft",
+      "status": "published",
       "title": "Workspace"
     }
   ]
