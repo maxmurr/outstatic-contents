@@ -1,6 +1,6 @@
 {
-  "commit": "13a88cf4cfd826a86ee6c616ee055b4e8dae8050",
-  "generated": "2025-04-23T10:33:02.378Z",
+  "commit": "6bf580d108f312a48d6ed0f459b7b8358f80aa9a",
+  "generated": "2025-04-23T17:48:50.984Z",
   "metadata": [
     {
       "__outstatic": {
@@ -100,22 +100,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f1fc49a411563d8af7f995135138854093b2e0e6",
-        "hash": "2137981315",
-        "path": "outstatic/content/posts/index.mdx"
-      },
-      "author": {
-        "name": "Max Murray",
-        "picture": "https://avatars.githubusercontent.com/u/78588986?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-04-23T11:12:38.902Z",
-      "slug": "index",
-      "status": "published",
-      "title": "Getting Started"
-    },
-    {
-      "__outstatic": {
         "commit": "a254473e102fe00c9cc0e60f244bf478319565fb",
         "hash": "2496988885",
         "path": "outstatic/content/posts/term-of-service.mdx"
@@ -161,6 +145,22 @@
       "slug": "workspace",
       "status": "published",
       "title": "Workspace"
+    },
+    {
+      "__outstatic": {
+        "commit": "6bf580d108f312a48d6ed0f459b7b8358f80aa9a",
+        "hash": "1452601694",
+        "path": "outstatic/content/posts/index.mdx"
+      },
+      "author": {
+        "name": "Max Murray",
+        "picture": "https://avatars.githubusercontent.com/u/78588986?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-04-23T11:12:38.902Z",
+      "slug": "index",
+      "status": "published",
+      "title": "Getting Started"
     }
   ]
 }
